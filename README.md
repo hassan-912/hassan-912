@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @hassan-912<br>👀 I’m interested in (AI,cyber security,cs)<br>🌱 I’m currently learning (javascript,css,python,java)<br>💞️ I’m looking to collaborate on  various projects to level up my knowledge<br>📫 How to reach me : https://www.linkedin.com/in/hassan-mahmoud-b60587246/<br><br>
+<br>👋 Hi, I’m @hassan-912<br>👀<br>🌱 I’m currently learning (javascript,css,python,java)<br>💞️ I’m looking to collaborate on  various projects to level up my knowledge<br>📫 How to reach me : https://www.linkedin.com/in/hassan-mahmoud-b60587246/<br><br>
 
 
 ## 🌐 Socials:
